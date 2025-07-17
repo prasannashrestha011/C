@@ -1,0 +1,3 @@
+ram hod 9000
+gita peon 1000
+mark CEO 50000
