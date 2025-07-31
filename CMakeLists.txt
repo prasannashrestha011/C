@@ -15,7 +15,7 @@ add_executable(bub ./sortings/bubble_sort.c)
 add_executable(sel ./sortings/selection_sort.c)
 #recursive
 add_executable(fibo ./recursive/fibo.c)
-
+add_executable(fact ./recursive/factorial.c)
 #dma
 add_executable(sum ./dma/sum.c)
 add_executable(cmp ./dma/compare.c)
