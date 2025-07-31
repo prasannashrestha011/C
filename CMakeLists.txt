@@ -13,6 +13,8 @@ add_executable(prt ./practice/pattern.c)
 #sorting
 add_executable(bub ./sortings/bubble_sort.c)
 add_executable(sel ./sortings/selection_sort.c)
+#recursive
+add_executable(fibo ./recursive/fibo.c)
 
 #dma
 add_executable(sum ./dma/sum.c)
