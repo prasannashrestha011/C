@@ -17,7 +17,7 @@ add_executable(sel ./sortings/selection_sort.c)
 #dma
 add_executable(sum ./dma/sum.c)
 add_executable(cmp ./dma/compare.c)
-
+add_executable(largest ./dma/find_largests.c)
 #structure 
 add_executable(std ./strucuture/student.c)
 add_executable(dstruct ./strucuture/dma_struct.c)
